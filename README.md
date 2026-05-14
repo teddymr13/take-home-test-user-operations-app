@@ -2,6 +2,8 @@
 
 A Next.js application showcasing a modern user management dashboard with advanced filtering, sorting, and rich activity insights.
 
+🚀 **Live Demo**: [https://take-home-test-user-operations-app.vercel.app](https://take-home-test-user-operations-app.vercel.app)
+
 ## 📋 Project Overview
 
 This application demonstrates a full-stack implementation of a user management system with:
